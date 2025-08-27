@@ -2,7 +2,7 @@
 print('Hello, World!')
 
 # %%
-name = input('Please enter your name: ')
+name = input('Jesse')
 print('Hello, ' + name + '!')
 
 

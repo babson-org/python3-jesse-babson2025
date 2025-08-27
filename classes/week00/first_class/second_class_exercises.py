@@ -1,6 +1,7 @@
 #%%
 # print 'hello' 5 times using an arithmetic operator
-
+L = "Hello "
+print(L*5)
 
 #%%
 # print 'hello' 5 times using a loop
